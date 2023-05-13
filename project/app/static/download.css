@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(228, 186, 136)
+}
+
+.download {
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.download a img {
+    border: 1px solid black;
+    border-color: black;
+    margin-bottom: 50px;
+}
+
+p {
+    color: black;
+    width: 50%;
+    font-size: 1.0rem;
+}
